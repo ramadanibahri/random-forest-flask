@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hasil Prediksi</title>
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-light">
+    <div class="container mt-5">
+      <div class="card shadow-sm w-50 mx-auto">
+        <div
+          class="card-header"
+          style="background-color: #0d6efd; color: white"
+        >
+          <h1 class="text-center card-title">Hasil Prediksi</h1>
+        </div>
+        <div class="card-body">
+          <p>Prediksi Lokasi Anatomi :</p>
+          <p class="alert alert-info">{{ prediction }}</p>
+          <p>Akurasinya :</p>
+          <p class="alert alert-info">{{ accuracy }}</p>
+          <button id="toggleButton" class="btn btn-primary w-100">
+            Tampilkan Decision Tree Model
+          </button>
+          <a href="/" class="btn btn-primary w-100 mt-3">Kembali</a>
+        </div>
+      </div>
+    </div>
+    <div id="imageContainer" class="container mt-5" style="display: none">
+      <img src="/static/tree.png" alt="Decision Tree" style="width: 100%" />
+    </div>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    document
+      .getElementById("toggleButton")
+      .addEventListener("click", function () {
+        var imageContainer = document.getElementById("imageContainer");
+        if (imageContainer.style.display === "none") {
+          imageContainer.style.display = "block";
+          this.textContent = "Tutup Decision Tree Model";
+        } else {
+          imageContainer.style.display = "none";
+          this.textContent = "Tampilkan Decision Tree Model";
+        }
+      });
+  </script>
+</html>

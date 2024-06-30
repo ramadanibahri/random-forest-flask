@@ -1,0 +1,986 @@
+UMUR,JENIS KELAMIN,KECAMATAN,FOTO TORAKS,STATUS HIV,RIWAYAT DIABETES,HASIL TCM,LOKASI ANATOMI (target/output)
+17,P,AROSBAYA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+19,P,KONANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+37,P,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+62,P,KAMAL,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+25,P,MODUNG,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+56,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,P,BANGKALAN,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+26,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+50,P,AROSBAYA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+47,P,KLAMPIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,P,GEGER,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+33,P,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+30,P,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+27,P,TANAH MERAH,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+65,P,BLEGA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,P,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+66,P,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,P,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+21,P,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+67,P,GEGER,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+47,P,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+21,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+36,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+58,P,BANGKALAN,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,KONANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+52,P,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+55,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+46,P,BURNEH,Positif,Negatif,Ya,Tidak dilakukan,Paru
+75,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+55,P,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,P,KLAMPIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,P,GEGER,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,P,KOKOP,Positif,Negatif,Ya,Rif Sensitif,Paru
+27,L,TANJUNGBUMI,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+17,L,BLEGA,Tidak dilakukan,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+49,L,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+18,L,AROSBAYA,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+18,L,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+19,L,BANGKALAN,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,L,GALIS,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+13,L,OMBEN,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+14,L,BANGKALAN,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+57,L,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,TRAGAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+35,L,TANJUNGBUMI,Positif,Positif,Tidak,Tidak dilakukan,Paru
+35,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,SRESEH,Positif,Negatif,Tidak diketahui,Rif Sensitif,Paru
+54,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+52,L,SENTANI,Positif,Positif,Ya,Tidak dilakukan,Paru
+53,L,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,GALIS,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+65,L,KLAMPIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,TRAGAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,L,KADEMANGAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+44,L,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+58,L,BANGKALAN,Positif,Positif,Tidak,Tidak dilakukan,Paru
+64,L,GALIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+28,L,GEGER,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+64,L,SEPULU,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+57,L,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+34,L,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+28,L,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,SEPULU,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+80,L,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,L,BALIKPAPAN SELATAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,L,BANYUATES,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,L,SEPULU,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+30,L,SEPULU,Positif,Negatif,Ya,Tidak dilakukan,Paru
+34,L,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+50,L,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+46,L,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+55,L,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,L,BURNEH,Positif,Negatif,Ya,Tidak dilakukan,Paru
+64,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+44,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+78,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,L,KONANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+66,L,BANYUATES,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+16,L,KONANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,L,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,L,SOKOBANAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+40,L,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+56,L,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+29,L,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+64,L,BANGKALAN,Positif,Negatif,Ya,Tidak dilakukan,Paru
+45,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,L,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+30,L,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+21,L,BLEGA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+2,L,GALIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+66,P,KAMAL,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,L,TRAGAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+17,P,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,SRESEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,L,KLAMPIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+46,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+43,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+37,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+14,L,KLAMPIS,Negatif,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+31,P,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+83,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+18,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+33,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+74,L,KLAMPIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+44,P,PULO GADUNG,Positif,Positif,Tidak,Negatif,Paru
+13,P,BANYUATES,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+13,L,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+20,P,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,P,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+69,P,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+32,P,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+22,P,BANYUATES,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,L,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+46,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+76,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+20,P,TANJUNGBUMI,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,L,WONODADI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,MODUNG,Positif,Negatif,Tidak,Negatif,Paru
+42,L,KETAPANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,L,SOCAH,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+24,P,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,KONANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+54,L,KWANYAR,Positif,Negatif,Ya,Negatif,Paru
+59,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+17,L,KOKOP,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,LABANG,Tidak dilakukan,Negatif,Tidak,Rif Sensitif,Paru
+27,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+54,L,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+7,P,TRAGAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+10,P,GALIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+35,P,KOJA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+18,P,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+27,P,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+39,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+65,L,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+51,L,BANGKALAN,Positif,Negatif,Ya,Rif Sensitif,Paru
+12,L,KAMAL,Negatif,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+54,L,BANYUATES,Tidak dilakukan,Negatif,Tidak,Rif Sensitif,Paru
+55,P,TANJUNGBUMI,Positif,Negatif,Tidak,Negatif,Paru
+57,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+6,L,BLEGA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+31,L,MODUNG,Positif,Positif,Tidak,Rif Sensitif,Paru
+43,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,L,GALIS,Positif,Positif,Tidak,Tidak dilakukan,Paru
+53,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+47,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,P,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,P,MODUNG,Positif,Negatif,Tidak,Negatif,Paru
+8,P,KETAPANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+19,P,KOKOP,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+53,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,P,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+32,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,KWANYAR,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+74,L,GALIS,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+42,P,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+54,L,WEDUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+54,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+28,P,BANGKALAN,Positif,Positif,Tidak,Tidak dilakukan,Paru
+65,L,KONANG,Positif,Negatif,Tidak,Negatif,Paru
+41,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+47,L,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+45,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+14,P,KAMAL,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+22,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+37,L,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+45,P,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+49,L,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+79,L,KAMAL,Positif,Negatif,Tidak,Negatif,Paru
+35,P,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+25,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+19,L,MODUNG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,L,KETAPANG,Positif,Negatif,Tidak,Rif resisten,Paru
+41,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,TANJUNGBUMI,Positif,Negatif,Tidak,Negatif,Paru
+69,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+50,P,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+28,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,L,KONANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+61,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,P,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+60,L,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+60,P,KONANG,Positif,Negatif,Tidak,Negatif,Paru
+39,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,L,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+20,P,KOKOP,Positif,Negatif,Tidak,Negatif,Paru
+47,P,KLOJEN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,KETAPANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+41,P,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,P,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+59,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+67,L,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,KONANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+11,P,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,L,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+50,L,BLEGA,Positif,Negatif,Tidak,Negatif,Paru
+58,L,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+54,L,KLAMPIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+6,P,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+60,P,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+48,P,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+25,P,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,KONANG,Positif,Negatif,Tidak diketahui,Negatif,Paru
+17,L,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+50,L,PAHANDUT,Positif,Positif,Tidak,Tidak dilakukan,Paru
+1,L,BURNEH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+51,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,BANGKALAN,Positif,Negatif,Ya,Rif Sensitif,Paru
+54,L,KOKOP,Positif,Negatif,Tidak,Negatif,Paru
+25,L,KLAMPIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+54,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+41,L,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+48,L,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+22,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,P,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+56,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+29,P,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+58,P,BLEGA,Positif,Negatif,Tidak,Negatif,Paru
+60,L,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+45,P,KONANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+63,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,P,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+60,L,KETAPANG,Positif,Negatif,Tidak,Negatif,Paru
+14,L,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+85,L,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,SOCAH,Positif,Negatif,Ya,Tidak dilakukan,Paru
+71,P,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+54,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,GROGOL PETAMBURAN,Positif,Positif,Tidak,Negatif,Paru
+27,L,LABANG,Positif,Positif,Tidak,Tidak dilakukan,Paru
+37,L,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,BLEGA,Positif,Negatif,Tidak,Negatif,Paru
+50,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+54,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,P,CINEAM,Positif,Negatif,Tidak,Negatif,Paru
+55,P,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+59,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+51,P,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+73,L,AROSBAYA,Positif,Negatif,Tidak,Negatif,Paru
+52,P,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+62,P,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+43,L,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+36,P,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+61,P,PULO GADUNG,Positif,Negatif,Ya,Rif Sensitif,Paru
+51,P,LABANG,Positif,Negatif,Tidak,Negatif,Paru
+81,P,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+48,L,GUNUNG PUTRI,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+52,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,TANAH MERAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+24,L,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+36,L,BLEGA,Positif,Negatif,Tidak,Rif resisten,Paru
+20,L,GEGER,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+12,P,GEGER,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+1,L,KOKOP,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+5,L,TANJUNGBUMI,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+1,L,KAMAL,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+13,P,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+12,P,LABANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+54,P,KAMAL,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+58,P,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,L,CILINCING,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+54,L,MODUNG,Positif,Negatif,Tidak,Negatif,Paru
+57,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+51,L,TANAH MERAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+28,L,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+23,P,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,KWANYAR,Positif,Tidak diketahui,Tidak,Negatif,Paru
+58,L,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+47,L,BLEGA,Positif,Negatif,Tidak,Negatif,Paru
+55,P,TANAH MERAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,P,TANJUNGBUMI,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+51,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,P,KLAMPIS,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+53,P,SEPULU,Positif,Tidak diketahui,Tidak,Negatif,Paru
+4,L,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+68,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+28,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,KAMAL,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+35,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+50,L,SOCAH,Positif,Positif,Tidak,Negatif,Paru
+35,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+57,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+48,P,BURNEH,Positif,Negatif,Ya,Rif Sensitif,Paru
+51,P,KAMAL,Positif,Negatif,Tidak,Negatif,Paru
+75,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+57,L,LABANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+37,L,RIAU SILIP,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+60,P,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+66,L,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+68,L,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+49,L,SOKOBANAH,Positif,Negatif,Tidak,Negatif,Paru
+41,P,TRAGAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,KOJA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+62,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+45,L,KOJA,Positif,Negatif,Tidak,Negatif,Paru
+53,L,BANGKALAN,Positif,Negatif,Ya,Rif Sensitif,Paru
+30,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+33,L,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,KREMBANGAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+25,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+66,L,SOCAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+58,L,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+55,L,LABANG,Positif,Negatif,Tidak,Negatif,Paru
+43,L,AROSBAYA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,L,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+71,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+68,L,SEMAMPIR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+25,L,TANAH MERAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+48,L,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+39,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+58,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+49,P,BURNEH,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+19,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,PROPPO,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+30,P,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,KLAMPIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,P,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,P,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+17,P,BLEGA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+42,P,BURNEH,Positif,Negatif,Ya,Rif Sensitif,Paru
+66,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+59,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+50,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+65,L,TANJUNGBUMI,Positif,Negatif,Tidak,Negatif,Paru
+33,L,BLEGA,Positif,Positif,Tidak,Negatif,Paru
+59,P,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+50,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+46,P,MODUNG,Positif,Tidak diketahui,Tidak,Negatif,Paru
+50,P,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,BESUKI,Positif,Negatif,Tidak,Negatif,Paru
+49,P,SOCAH,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+19,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+48,L,BANGKALAN,Positif,Negatif,Ya,Tidak dilakukan,Paru
+64,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+54,P,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+38,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+66,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+83,L,AROSBAYA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,P,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,TANJUNG PRIOK,Positif,Negatif,Tidak,Rif Sensitif,Paru
+77,P,BANGKALAN,Positif,Tidak diketahui,Ya,Negatif,Paru
+22,P,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,P,MAMPANG PRAPATAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,SOCAH,Positif,Negatif,Ya,Rif Sensitif,Paru
+27,L,BLEGA,Positif,Positif,Tidak,Rif Sensitif,Paru
+70,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+44,P,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+55,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+81,P,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+45,L,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+21,P,LENTENG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,P,TAMBELANGAN,Positif,Negatif,Tidak,Negatif,Paru
+33,L,BANGKALAN,Positif,Positif,Tidak,Rif Sensitif,Paru
+1,L,KOKOP,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+68,L,AROSBAYA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,LABANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+63,L,MODUNG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+24,L,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+13,L,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+57,L,KAMAL,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+1,L,KWANYAR,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+17,L,JATINEGARA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+14,P,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,L,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,P,BUBUTAN,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+36,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,KLAMPIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,L,SETIA BUDI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+62,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+59,L,DENPASAR SELATAN,Positif,Negatif,Tidak,Negatif,Paru
+57,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+59,P,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+76,L,SOCAH,Positif,Negatif,Ya,Rif Sensitif,Paru
+60,P,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+38,L,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+21,P,AROSBAYA,Positif,Negatif,Tidak,Negatif,Paru
+68,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,TANJUNGBUMI,Positif,Negatif,Tidak,Negatif,Paru
+58,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+20,L,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,P,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+61,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,ROBATAL,Negatif,Negatif,Tidak diketahui,Tidak dilakukan,Ekstra paru
+19,L,TANJUNGBUMI,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+21,L,SEPULU,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+33,P,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+57,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+1,P,SOCAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+49,P,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,L,SEPULU,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+46,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,SOCAH,Positif,Negatif,Ya,Negatif,Paru
+63,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+54,L,MODUNG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,LABANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+52,L,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+25,P,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+23,L,TRAGAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+47,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+47,L,BANGKALAN,Positif,Negatif,Ya,Rif Sensitif,Paru
+26,L,KWANYAR,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+64,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,TANJUNGBUMI,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+21,L,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+49,L,PABEAN CANTIAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+41,P,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+18,P,KWANYAR,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+15,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+64,L,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+27,P,SOCAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+25,L,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+8,L,BANGKALAN,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+38,P,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,BLEGA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+78,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+28,P,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+82,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,P,KETAPANG,Positif,Negatif,Tidak,Negatif,Paru
+47,P,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+40,P,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,KONANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+34,P,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+76,P,KAMAL,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+55,P,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+52,L,BURNEH,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+54,P,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,L,KANOR,Positif,Negatif,Tidak,Negatif,Paru
+75,L,KLAMPIS,Positif,Negatif,Tidak,Negatif,Paru
+41,L,SUGIO,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,BANGKALAN,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,P,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+72,L,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+33,L,KOKOP,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,TANJUNGBUMI,Positif,Negatif,Tidak,Negatif,Paru
+42,L,TANJUNGBUMI,Positif,Negatif,Tidak,Negatif,Paru
+58,P,KLAMPIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+52,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+60,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,L,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+16,L,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+51,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,SOCAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+48,L,GEGER,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+31,L,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+39,L,KONANG,Positif,Negatif,Tidak,Negatif,Paru
+6,L,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+52,L,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+25,L,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+73,L,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+16,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,P,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+71,P,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+62,P,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,MODUNG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+7,P,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+32,L,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+18,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+26,P,BANGKALAN,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+52,L,MODUNG,Positif,Positif,Tidak,Rif Sensitif,Paru
+60,L,SOKOBANAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,P,LABANG,Tidak dilakukan,Positif,Tidak,Tidak dilakukan,Ekstra paru
+61,L,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+53,P,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+42,L,AROSBAYA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,P,SRESEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+45,L,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+41,L,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+5,L,TRAGAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+16,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+59,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,L,LABANG,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+38,P,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+59,L,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+91,P,KLAMPIS,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+49,P,SEPULU,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+57,P,MODUNG,Positif,Negatif,Ya,Rif Sensitif,Paru
+16,P,GEGER,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,KOKOP,Positif,Positif,Tidak,Negatif,Paru
+72,P,TANDES,Positif,Negatif,Tidak,Negatif,Paru
+76,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+59,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+67,L,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+26,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,P,MODUNG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,PESANTREN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+63,L,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+60,L,KWANYAR,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+56,L,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+30,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,SOCAH,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+44,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+56,L,SEPULU,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+20,P,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,L,SOKOBANAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+55,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,P,KONANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,P,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,LABANG,Positif,Negatif,Tidak,Negatif,Paru
+57,P,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+65,L,MODUNG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,P,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+31,P,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+63,P,BURNEH,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+30,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+32,P,TANAH MERAH,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,P,GEGER,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+22,P,SIRIMAU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+61,L,GEGER,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,P,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+45,L,NEGARA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+73,L,SIMOKERTO,Positif,Negatif,Tidak,Rif Sensitif,Paru
+66,P,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,P,BURNEH,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+51,P,BANYUATES,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,P,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+25,L,TAMBELANGAN,Positif,Negatif,Tidak,Negatif,Paru
+54,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+13,P,TANAH MERAH,Positif,Negatif,Tidak,Tidak dilakukan,Paru
+45,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+39,L,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+48,L,MODUNG,Positif,Negatif,Tidak,Negatif,Paru
+52,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+56,L,BLEGA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+58,L,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+70,L,KAMAL,Positif,Negatif,Tidak,Negatif,Paru
+46,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+67,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+53,L,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,P,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,P,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+61,P,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+56,P,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+24,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,L,AROSBAYA,Positif,Negatif,Tidak,Negatif,Paru
+56,L,BANYUATES,Tidak dilakukan,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+74,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+32,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+29,P,TRAGAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+40,L,KAMAL,Positif,Negatif,Tidak,Negatif,Paru
+26,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+23,P,AMBUNTEN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+18,L,KLAMPIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+49,P,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+50,L,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+13,L,KLAMPIS,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+24,L,GEGER,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+44,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,L,SOCAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+3,L,TANAH MERAH,Positif,Positif,Tidak,Tidak dilakukan,Paru
+3,P,GEGER,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+27,L,KAMAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+19,P,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+30,P,BUBUTAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,P,KWANYAR,Positif,Tidak diketahui,Tidak,Negatif,Paru
+66,P,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+47,L,PALMERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+44,L,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+3,P,BANGKALAN,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+65,P,AROSBAYA,Positif,Negatif,Tidak,Negatif,Paru
+18,P,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+8,P,SOCAH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+56,L,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+58,L,TANAH MERAH,Positif,Tidak diketahui,Tidak,Negatif,Paru
+72,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+43,P,BURNEH,Positif,Negatif,Ya,Rif Sensitif,Paru
+60,P,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+60,P,SORONG UTARA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,L,GEGER,Positif,Negatif,Tidak,Negatif,Paru
+50,L,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,L,TRAGAH,Positif,Negatif,Tidak,Negatif,Paru
+20,P,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,P,MODUNG,Positif,Negatif,Tidak,Rif resisten,Paru
+22,P,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+16,P,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+21,P,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,KWANYAR,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+10,P,SOCAH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+49,L,KOKOP,Positif,Tidak diketahui,Tidak,Negatif,Paru
+41,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+35,P,BLEGA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+50,P,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+66,L,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,BLEGA,Negatif,Negatif,Ya,Tidak dilakukan,Ekstra paru
+40,P,KLAMPIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+38,P,SEPULU,Positif,Negatif,Tidak,Negatif,Paru
+33,L,BANGKALAN,Positif,Negatif,Tidak,Negatif,Paru
+59,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+69,L,KAMAL,Positif,Tidak diketahui,Tidak,Negatif,Paru
+38,L,SOCAH,Positif,Negatif,Ya,Rif Sensitif,Paru
+56,L,SEPULU,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+8,L,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+45,L,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+1,L,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+62,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+52,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+55,L,GEGER,Positif,Negatif,Tidak,Rif Sensitif,Paru
+64,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,L,KWANYAR,Positif,Negatif,Tidak,Negatif,Paru
+64,L,TANAH MERAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+45,P,BURNEH,Positif,Negatif,Tidak,Negatif,Paru
+52,L,SEPULU,Positif,Negatif,Tidak,Rif Sensitif,Paru
+25,P,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+5,P,MODUNG,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+68,L,KAMAL,Positif,Negatif,Tidak,Negatif,Paru
+59,L,KONANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+22,P,TANAH MERAH,Positif,Negatif,Tidak,Negatif,Paru
+47,P,SOCAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+19,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,LABANG,Positif,Negatif,Tidak,Rif resisten,Paru
+33,P,KETAPANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,KONANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+20,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+65,P,LABANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,P,KLAMPIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,L,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+76,L,SRESEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+49,L,BANYUATES,Positif,Negatif,Tidak,Negatif,Paru
+70,P,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+69,L,GALIS,Positif,Tidak diketahui,Tidak,Negatif,Paru
+46,P,PINANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+47,L,BURNEH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+80,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+21,P,MODUNG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,P,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,P,BURNEH,Positif,Tidak diketahui,Tidak,Negatif,Paru
+20,P,SOCAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,P,KAMAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,SOCAH,Positif,Negatif,Tidak,Negatif,Paru
+75,L,TANJUNGBUMI,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+50,L,ROBATAL,Positif,Tidak diketahui,Tidak,Rif resisten,Paru
+50,P,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+53,L,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+13,L,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+36,L,GALIS,Positif,Negatif,Tidak,Rif Sensitif,Paru
+59,P,GALIS,Positif,Negatif,Ya,Rif Sensitif,Paru
+87,L,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+58,P,TRAGAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+51,P,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+50,P,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+19,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+41,P,GALIS,Positif,Negatif,Tidak,Negatif,Paru
+52,L,ABEPURA,Positif,Tidak diketahui,Tidak,Negatif,Paru
+17,P,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+14,P,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+45,L,SAMPANG,Positif,Negatif,Tidak,Negatif,Paru
+20,L,GEGER,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+29,L,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+64,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+33,L,PABEAN CANTIAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+19,L,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+50,P,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+23,P,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+20,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+60,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+14,P,KWANYAR,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+34,L,BLEGA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+68,L,BANYUATES,Positif,Negatif,Tidak,Rif Sensitif,Paru
+78,L,KAMAL,Positif,Tidak diketahui,Ya,Negatif,Paru
+35,P,GALIS,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+28,P,BURNEH,Positif,Tidak diketahui,Tidak,Negatif,Paru
+12,L,TANJUNGBUMI,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+76,L,KAMAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+61,L,SOCAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+67,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+36,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+46,P,KAMAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+27,L,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+15,L,SEPULU,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+32,P,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+72,L,TRAGAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+68,L,SOCAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+60,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+17,P,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+59,L,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,LABANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+34,P,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+77,L,AROSBAYA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+68,P,AROSBAYA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+3,L,KLAMPIS,Positif,Tidak diketahui,Tidak,Negatif,Paru
+71,L,KOKOP,Positif,Tidak diketahui,Tidak,Negatif,Paru
+29,P,BANYUATES,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+60,L,SOKOBANAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,P,KWANYAR,Positif,Tidak diketahui,Tidak,Negatif,Paru
+25,P,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,P,TANAH MERAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+27,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+36,P,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+69,L,SEPULU,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,P,KWANYAR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,TANJUNG PRIOK,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+70,L,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+62,L,GALIS,Positif,Tidak diketahui,Tidak,Negatif,Paru
+62,L,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,P,KWANYAR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+65,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+22,L,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+43,L,SAMARINDA SEBERANG,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+42,L,SOCAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+65,L,MODUNG,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+57,L,TANAH MERAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+65,L,BURNEH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,L,KLAMPIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+20,P,LABANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,L,KAMAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+71,L,KWANYAR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+87,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,L,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+78,L,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,L,SEMAMPIR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,L,LABANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+62,L,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,L,TANJUNGBUMI,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+53,L,TANAH MERAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,P,SEPULU,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+16,P,CIKARANG UTARA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,L,KONANG,Positif,Negatif,Tidak,Rif Sensitif,Paru
+25,L,GEGER,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,P,TANJUNGBUMI,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+26,P,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+51,P,KOKOP,Positif,Negatif,Tidak,Negatif,Paru
+61,L,BLEGA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+22,P,AROSBAYA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+18,P,GEGER,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+23,P,KAMAL,Tidak dilakukan,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+67,L,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+69,P,KAMAL,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+26,P,BURNEH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+60,L,ROBATAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+13,P,AROSBAYA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+38,L,SOCAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+58,P,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+52,P,BURNEH,Positif,Tidak diketahui,Tidak,Negatif,Paru
+17,P,BURNEH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+17,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+30,L,SIMOKERTO,Positif,Tidak diketahui,Tidak,Rif resisten,Paru
+51,P,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+57,P,KAMAL,Positif,Negatif,Tidak,Rif Sensitif,Paru
+79,L,SOKOBANAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+44,L,BLEGA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+38,L,SRESEH,Positif,Positif,Tidak,Negatif,Paru
+44,L,BLEGA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+25,L,MODUNG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+54,L,TRAGAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,L,MAMPANG PRAPATAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+15,P,AROSBAYA,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+64,P,MODUNG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+31,P,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+25,P,TANAH MERAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+31,P,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+57,P,AROSBAYA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,P,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,P,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+20,P,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+60,L,SEPULU,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,P,SEPULU,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+65,P,BLEGA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+35,L,SEPULU,Positif,Negatif,Tidak diketahui,Rif Sensitif,Paru
+31,L,BANYUATES,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+71,P,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+72,P,KONANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+50,P,SOCAH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+11,P,LABANG,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+38,P,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,P,KWANYAR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+2,P,TANAH MERAH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+30,P,MODUNG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+17,P,AROSBAYA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+52,P,KOKOP,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,L,KAMAL,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+49,L,KWANYAR,Positif,Negatif,Tidak,Rif Sensitif,Paru
+15,L,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+66,L,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+26,P,SEPULU,Positif,Positif,Tidak,Rif Sensitif,Paru
+21,L,GEGER,Negatif,Positif,Tidak,Tidak dilakukan,Ekstra paru
+11,L,TANJUNGBUMI,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+34,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+3,P,GEGER,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+13,P,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+47,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+43,L,SOCAH,Positif,Positif,Tidak,Rif Sensitif,Paru
+24,P,BURNEH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+44,L,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+32,L,TANJUNGBUMI,Positif,Negatif,Tidak,Rif Sensitif,Paru
+51,P,BANYUATES,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+55,L,TANJUNGBUMI,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+56,L,KONANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+56,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+37,P,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+15,P,LABANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+34,L,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+68,L,KWANYAR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+55,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+50,L,BANGKALAN,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+37,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+14,P,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,P,TRAGAH,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+70,L,BANYUATES,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+29,P,BURNEH,Positif,Negatif,Ya,Rif Sensitif,Paru
+53,P,SEMAMPIR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,L,JRENGIK,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+69,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+64,L,KAMAL,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+18,P,BLEGA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+20,P,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+21,P,KAMAL,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,L,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+19,L,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,SOCAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+69,L,AROSBAYA,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+21,L,KOJA,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+23,P,BANYUATES,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,P,GEGER,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+19,P,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+41,P,LABANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,P,KOKOP,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+58,L,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+59,P,BURNEH,Positif,Negatif,Tidak,Rif Sensitif,Paru
+36,L,MODUNG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+13,L,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,L,KONANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+66,L,SEPULU,Negatif,Tidak diketahui,Ya,Tidak dilakukan,Ekstra paru
+6,L,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+10,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+51,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+49,L,LABANG,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+24,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+47,L,TANAH MERAH,Positif,Tidak diketahui,Tidak,Negatif,Paru
+19,L,LABANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+53,P,KWANYAR,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+60,L,GEGER,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+29,L,KONANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+31,L,KETAPANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+46,L,GEGER,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+59,L,TRAGAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+65,L,BLEGA,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+4,P,KAMAL,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+34,P,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,L,PRAMBON,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+52,P,KOKOP,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+64,L,KLAMPIS,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+54,L,KAMAL,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+32,L,BLEGA,Positif,Negatif,Tidak,Rif Sensitif,Paru
+70,P,KONANG,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+40,L,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+70,P,KWANYAR,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+28,P,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+23,P,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+56,L,LABANG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+55,L,BURNEH,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+69,L,SOCAH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+43,P,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+66,L,BANGKALAN,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+41,L,BURNEH,Positif,Positif,Tidak,Rif Sensitif,Paru
+44,P,MODUNG,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+46,P,BANGKALAN,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+42,P,SEPULU,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+54,P,TANAH MERAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+11,L,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+46,L,BURNEH,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+21,L,KOJA,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+62,P,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+49,P,KAMAL,Positif,Tidak diketahui,Ya,Rif Sensitif,Paru
+61,L,SEPULU,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+46,L,GALIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+56,L,TANJUNGBUMI,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+21,P,KAMAL,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+28,L,GALIS,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+39,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+26,P,BANGKALAN,Positif,Negatif,Tidak,Rif Sensitif,Paru
+1,L,BURNEH,Positif,Tidak diketahui,Tidak,Tidak dilakukan,Paru
+57,L,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+24,P,TANAH MERAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+61,P,KAMAL,Positif,Tidak diketahui,Tidak,Rif Sensitif,Paru
+44,P,KLAMPIS,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+31,L,BANYUATES,Negatif,Negatif,Tidak,Tidak dilakukan,Ekstra paru
+16,P,BANGKALAN,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+53,L,TANJUNGBUMI,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+17,P,TRAGAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+16,L,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+69,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
+68,L,BURNEH,Positif,Tidak diketahui,Tidak,Negatif,Paru

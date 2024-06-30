@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Prediksi Lokasi Anatomi</title>
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-light">
+    <div class="container-sm mt-5 mb-5">
+      <div class="card shadow-sm w-50 mx-auto">
+        <div
+          class="card-header"
+          style="background-color: #0d6efd; color: white"
+        >
+          <h1 class="card-title text-center">Prediksi Lokasi Anatomi</h1>
+        </div>
+        <div class="card-body">
+          <form action="/predict" method="post">
+            <label for="umur">Umur :</label>
+            <input
+              class="form-control"
+              type="number"
+              id="umur"
+              name="umur"
+              required
+            />
+            <label for="jenis_kelamin">Jenis Kelamin :</label>
+            <select
+              class="form-control"
+              id="jenis_kelamin"
+              name="jenis_kelamin"
+              required
+            >
+              <option value="0">P</option>
+              <option value="1">L</option>
+            </select>
+
+            <label for="foto_toraks">Foto Toraks :</label>
+            <select
+              class="form-control"
+              id="foto_toraks"
+              name="foto_toraks"
+              required
+            >
+              <option value="1">positif</option>
+              <option value="0">negatif</option>
+            </select>
+
+            <label for="status_hiv">Status HIV :</label>
+            <select
+              class="form-control"
+              id="status_hiv"
+              name="status_hiv"
+              required
+            >
+              <option value="1">positif</option>
+              <option value="0">negatif</option>
+            </select>
+
+            <label for="riwayat_diabetes">Riwayat Diabetes :</label>
+            <select
+              class="form-control mb-3"
+              id="riwayat_diabetes"
+              name="riwayat_diabetes"
+              required
+            >
+              <option value="1">ya</option>
+              <option value="0">tidak</option>
+            </select>
+
+            <input
+              class="btn btn-primary w-100"
+              type="submit"
+              value="Prediksi"
+            />
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</html>
